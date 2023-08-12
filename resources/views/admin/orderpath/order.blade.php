@@ -17,16 +17,7 @@
 
                                     </div>
                                 </div>
-                                <div class="table-data__tool-right">
-                                    <a href="category.html">
-                                        <button class="au-btn au-btn-icon au-btn--green au-btn--small">
-                                            <i class="zmdi zmdi-plus"></i>add item
-                                        </button>
-                                    </a>
-                                    <button class="au-btn au-btn-icon au-btn--green au-btn--small">
-                                        CSV download
-                                    </button>
-                                </div>
+
                             </div>
                             <label for="">Order Status</label>
                             <form action="{{ route('jjj') }}" method="GET">
